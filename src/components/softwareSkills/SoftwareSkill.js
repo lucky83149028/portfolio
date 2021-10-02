@@ -16,7 +16,7 @@ export default function SoftwareSkill() {
               >
                 {skills.fontAwesomeClassname
                 ? <i className={skills.fontAwesomeClassname}></i>
-                : <i><img src={skills.icon}/></i>
+                : <i><img src={skills.icon} alt=""/></i>
                 }
                 <p>{skills.skillName}</p>
               </li>
