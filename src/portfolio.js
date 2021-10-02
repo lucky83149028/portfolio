@@ -96,7 +96,7 @@ const educationInfo = {
       schoolName: "Dalian University of Technology",
       logo: require("./assets/images/DUT.jpg"),
       subHeader: "Computer science and Technology",
-      duration: "September 2007 - October 2011",
+      duration: "2007 - 2011",
       desc: "Bachelor's degree",
       descBullets: [
         // "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -142,6 +142,10 @@ const workExperiences = {
       companylogo: require("./assets/images/DAOventures.jpg"),
       date: "April 2021 – Present",
       desc: "DAOventures is a Multichain DeFi fund manager with borrowing and lending for decentralized finance (DeFi).",
+      descBullets: [
+        "Automated DeFi investing",
+        "Cross-chain swapping",
+      ]
     },
     {
       role: "Blockchain & Full Stack developer",
@@ -149,14 +153,21 @@ const workExperiences = {
       companylogo: require("./assets/images/SonicX.png"),
       date: "October 2019 – Jun 2020",
       desc: "SonicX is a blockchain based on fork of TRON. I developed and managed chain nodes. My friends and me developed a DEX running on SonicX.",
+      descBullets: [
+        "Decentralized Exchange",
+        "DeFi",
+        "TRON core",
+      ]
     },
     {
       role: "Blockchain & Full Stack developer",
       company: "Freelance",
-      companylogo: require("./assets/images/Freelance.jpg"),
+      companylogo: require("./assets/images/Freelance.png"),
       date: "December 2011 – March 2021",
       desc: "My first step in Blockchain industry was to develop a hybrid mobile wallet.",
       descBullets: [
+        "Governance",
+        "NFT",
         "Mobile and Web wallet",
         "Centralized Exchanges",
         "Web scraping",
@@ -178,31 +189,53 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  // subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/DAOventures_app.png"),
+      projectName: "DAOventures",
+      projectDesc: "DAOventures is a multi-chain DeFi investing platform for fund managers and crypto investors.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://app.daoventures.co/invest"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/GridZone.png"),
+      projectName: "GridZone",
+      projectDesc: "GridZone is a next-gen art-focused metaverse on Ethereum with unique digital identities, 3D VR world, and interactive 3D NFTs.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://gridzone.io/"
         }
       ]
-    }
+    },
+    {
+      image: require("./assets/images/SonicEX.png"),
+      projectName: "SonicEX",
+      projectDesc: "SonicEX is a decentralized exchange. It also supports DeFi forked from Uniswap v2.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://sonicex.org/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/Blockbank.webp"),
+      projectName: "Blockbank",
+      projectDesc: "BlockBank is a non-custodial utility wallet that combines the power of decentralized and centralized technology in a simple & secure mobile application.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://play.google.com/store/apps/details?id=com.aibb.wallet"
+        }
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
