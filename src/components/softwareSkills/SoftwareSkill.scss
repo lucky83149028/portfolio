@@ -29,3 +29,7 @@
 .software-skill-inline > i:hover ~ p {
   color: $skillsColor;
 }
+
+.software-skill-inline > i > img {
+  height: 3rem;
+}
