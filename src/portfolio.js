@@ -17,7 +17,7 @@ const greeting = {
     "Senior solidity developer with web3.js, node.js, and react.js experience."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1KdSFKihNVki12k11__O3jaEYj3LIbvzc/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -152,7 +152,7 @@ const workExperiences = {
       company: "SonicX Blockchain",
       companylogo: require("./assets/images/SonicX.png"),
       date: "October 2019 – Jun 2020",
-      desc: "SonicX is a blockchain based on fork of TRON. I developed and managed chain nodes. My friends and me developed a DEX running on SonicX.",
+      desc: "SonicX is a blockchain based on fork of TRON. I developed a DEX running on SonicX with teammates.",
       descBullets: [
         "Decentralized Exchange",
         "DeFi",
@@ -164,7 +164,7 @@ const workExperiences = {
       company: "Freelance",
       companylogo: require("./assets/images/Freelance.png"),
       date: "December 2011 – March 2021",
-      desc: "My first step in Blockchain industry was to develop a hybrid mobile wallet.",
+      desc: "My first step in the Blockchain industry was to develop a hybrid mobile wallet.",
       descBullets: [
         "Governance",
         "NFT",
