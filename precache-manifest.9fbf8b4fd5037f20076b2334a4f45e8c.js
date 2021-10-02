@@ -1,55 +1,75 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5e4d7686fe38eeaa16e38b230681011",
+    "revision": "dd9d16ef95944d36d6221451be135a41",
     "url": "/index.html"
   },
   {
-    "revision": "dab82e4ac5061fea6613",
+    "revision": "784beb36cf6b9ae1b1a8",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "cbbb67a8e35a6c17b42f",
+    "revision": "b516af88f7619e83222b",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "e2f0c323c9762c9f97b5",
-    "url": "/static/css/main.ee9ef483.chunk.css"
+    "revision": "ef6486c8bb286e5ae275",
+    "url": "/static/css/main.bed0db8b.chunk.css"
   },
   {
-    "revision": "b94bbabab1eab20d5034",
-    "url": "/static/js/2.aa8e5101.chunk.js"
+    "revision": "d27c3dcdb54c453faa16",
+    "url": "/static/js/2.6a89d916.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/static/js/2.aa8e5101.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6a89d916.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dab82e4ac5061fea6613",
-    "url": "/static/js/3.053620e3.chunk.js"
+    "revision": "784beb36cf6b9ae1b1a8",
+    "url": "/static/js/3.0377892e.chunk.js"
   },
   {
-    "revision": "cbbb67a8e35a6c17b42f",
-    "url": "/static/js/4.22004735.chunk.js"
+    "revision": "b516af88f7619e83222b",
+    "url": "/static/js/4.07f38242.chunk.js"
   },
   {
-    "revision": "e2f0c323c9762c9f97b5",
-    "url": "/static/js/main.b09c3791.chunk.js"
+    "revision": "ef6486c8bb286e5ae275",
+    "url": "/static/js/main.05391ae8.chunk.js"
   },
   {
-    "revision": "ef453722248432e8f616",
-    "url": "/static/js/runtime-main.2333e2f5.js"
+    "revision": "bbbe392ca934ee953687",
+    "url": "/static/js/runtime-main.215560e6.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
+    "revision": "0c51cea48af9a1f4a966b928d17c41f9",
+    "url": "/static/media/Blockbank.0c51cea4.webp"
+  },
+  {
+    "revision": "04d43be702b8096d6cc4b0c2ffacf39f",
+    "url": "/static/media/DAOventures_app.04d43be7.png"
+  },
+  {
     "revision": "96ec4235c1b064b4f51c84e20f135a40",
     "url": "/static/media/DUT.96ec4235.jpg"
   },
   {
+    "revision": "41b2d2fb195ef9d42a0d95bb19a171e3",
+    "url": "/static/media/Freelance.41b2d2fb.png"
+  },
+  {
+    "revision": "45ab4714d0bf3efaa152ecd117122014",
+    "url": "/static/media/GridZone.45ab4714.png"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "fda31acd2c83b92d7c0339311306ec11",
+    "url": "/static/media/SonicEX.fda31acd.png"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -72,16 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
