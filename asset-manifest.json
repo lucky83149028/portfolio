@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.bed0db8b.chunk.css",
-    "main.js": "/static/js/main.15ac060b.chunk.js",
-    "main.js.map": "/static/js/main.15ac060b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.215560e6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.215560e6.js.map",
-    "static/js/2.8c847e7e.chunk.js": "/static/js/2.8c847e7e.chunk.js",
-    "static/js/2.8c847e7e.chunk.js.map": "/static/js/2.8c847e7e.chunk.js.map",
+    "main.js": "/static/js/main.21588ea4.chunk.js",
+    "main.js.map": "/static/js/main.21588ea4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.db36fcc2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.db36fcc2.js.map",
+    "static/js/2.0df0bad4.chunk.js": "/static/js/2.0df0bad4.chunk.js",
+    "static/js/2.0df0bad4.chunk.js.map": "/static/js/2.0df0bad4.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
-    "static/js/3.0377892e.chunk.js": "/static/js/3.0377892e.chunk.js",
-    "static/js/3.0377892e.chunk.js.map": "/static/js/3.0377892e.chunk.js.map",
+    "static/js/3.be40a8c4.chunk.js": "/static/js/3.be40a8c4.chunk.js",
+    "static/js/3.be40a8c4.chunk.js.map": "/static/js/3.be40a8c4.chunk.js.map",
     "static/css/4.e91a4b36.chunk.css": "/static/css/4.e91a4b36.chunk.css",
-    "static/js/4.07f38242.chunk.js": "/static/js/4.07f38242.chunk.js",
-    "static/js/4.07f38242.chunk.js.map": "/static/js/4.07f38242.chunk.js.map",
+    "static/js/4.3d4e74b4.chunk.js": "/static/js/4.3d4e74b4.chunk.js",
+    "static/js/4.3d4e74b4.chunk.js.map": "/static/js/4.3d4e74b4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.39eb78c8f40e5a325ec5447227ebecf9.js": "/precache-manifest.39eb78c8f40e5a325ec5447227ebecf9.js",
+    "precache-manifest.e52272f601a7087acd2f3a09bbf92e11.js": "/precache-manifest.e52272f601a7087acd2f3a09bbf92e11.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
     "static/css/main.bed0db8b.chunk.css.map": "/static/css/main.bed0db8b.chunk.css.map",
-    "static/js/2.8c847e7e.chunk.js.LICENSE.txt": "/static/js/2.8c847e7e.chunk.js.LICENSE.txt",
+    "static/js/2.0df0bad4.chunk.js.LICENSE.txt": "/static/js/2.0df0bad4.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Blockbank.webp": "/static/media/Blockbank.0c51cea4.webp",
     "static/media/DAOventures_app.png": "/static/media/DAOventures_app.04d43be7.png",
@@ -37,9 +37,9 @@
     "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.215560e6.js",
-    "static/js/2.8c847e7e.chunk.js",
+    "static/js/runtime-main.db36fcc2.js",
+    "static/js/2.0df0bad4.chunk.js",
     "static/css/main.bed0db8b.chunk.css",
-    "static/js/main.15ac060b.chunk.js"
+    "static/js/main.21588ea4.chunk.js"
   ]
 }
